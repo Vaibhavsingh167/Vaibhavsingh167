@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a second-year Information Technology student at KIET Group of Institutions, currently working on Python and Flask-based projects. I enjoy building new applications and contributing to Flask development. I'm actively looking to collaborate on interesting Flask projects.<br>Fun fact: I'm great with logic, but not so much with names!
-
+I am a pre-final year B.Tech IT student skilled in Python with hands-on experience in Flask and web application development. I enjoy creating scalable applications and automating workflows while focusing on improving user experiences through technology. Passionate about continuous learning, I explore new tools and frameworks and actively stay engaged with emerging technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhavsingh0716/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsingh0716@gmail.com) 
