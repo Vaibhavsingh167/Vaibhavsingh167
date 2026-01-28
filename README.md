@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Singh;Python+Develoepr;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Singh;Python+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/Vaibhavsingh167/Vaibhavsingh167/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Vaibhavsingh167/Vaibhavsingh167/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
