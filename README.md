@@ -2,37 +2,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35C7F2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Singh;Python+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3>Pre-final Year B.Tech IT Student | Python & Flask Developer | Automation Enthusiast</h3>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vaibhavsingh167&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsingh0716/) 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsingh0716@gmail.com)
-  
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently exploring **Advanced Backend Architectures & System Design**.
-- 💻 Passionate about building **efficient, scalable web applications** and **automating boring tasks**.
-- 🛠️ Tech Stack: Python, Flask, SQL, HTML/CSS/JS, Git, Linux.
-- ⚡ Fun fact: I believe good code is like a joke—if you have to explain it, it’s bad.
+A Pre-final Year B.Tech IT Student | Python & Flask Developer | Automation Enthusiast. I'm passionate about building **efficient, scalable web applications** and **automating boring tasks**. I believe good code is like a joke—if you have to explain it, it’s bad.
 
 ---
 
-### 💻 Languages and Tools
+## 💡 What I Do
 
+- 🖥️ **Backend Web Development** | Building robust architectures, APIs, and web services using Python, Flask, and Django.
+
+---
+
+## 🛠 Tech Stack
+
+- **Programming:** Python, SQL, JavaScript
+- **Web Development:** Flask, Django, HTML, CSS
+- **Developer Tools:** Git & GitHub, Linux, VS Code, MySQL
+
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,mysql,git,linux,vscode" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📚 Currently Learning
+
+- 🔍 Advanced Backend Architectures & System Design
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <table style="border: none;">
@@ -51,14 +62,28 @@
 
 ---
 
-### 🐍 Contribution Graph
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vaibhavsingh167/Vaibhavsingh167/output/snake.svg" alt="snake animation" />
-</div>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavsingh167&theme=algolia&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhavsingh167&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Vaibhavsingh167/Vaibhavsingh167/output/snake.svg" alt="snake animation" />
+<p align="left">  </p>
+
+---
+
+## 📢 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavsingh0716/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsingh0716@gmail.com)
+
+📫 *Feel free to reach out for collaborations, brainstorming, or just to say hello!*
+
+---
