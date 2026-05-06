@@ -49,20 +49,17 @@ A Pre-final Year B.Tech IT Student | Python & Flask Developer | Automation Enthu
   <table style="border: none;">
     <tr>
       <td style="border: none;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsingh167&show_icons=true&locale=en&theme=tokyonight&v=1" alt="Vaibhavsingh167" />
+        <img align="center" src="https://my-github-stats-git-main-vaibhavsingh167s-projects.vercel.app/api?username=Vaibhavsingh167&show_icons=true&locale=en&theme=tokyonight" alt="Vaibhavsingh167" />
+      </td>
       <td style="border: none;">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsingh167&theme=tokyonight" alt="Vaibhavsingh167" />
       </td>
     </tr>
   </table>
   <br>
-  <!-- For the main stats -->
-
-
-<!-- For the top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhavsingh167&show_icons=true&locale=en&layout=compact&theme=tokyonight&v=1" alt="Vaibhavsingh167" />
+  
+  <img src="https://my-github-stats-git-main-vaibhavsingh167s-projects.vercel.app/api/top-langs?username=Vaibhavsingh167&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Vaibhavsingh167" />
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
