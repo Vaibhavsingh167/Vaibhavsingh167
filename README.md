@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-A Pre-final Year B.Tech IT Student | Python & Flask Developer | Automation Enthusiast. I'm passionate about building **efficient, scalable web applications** and **automating boring tasks**. I believe good code is like a joke—if you have to explain it, it’s bad.
+A Final Year B.Tech IT Student | Python & Flask Developer | Automation Enthusiast. I'm passionate about building **efficient, scalable web applications** and **automating boring tasks**. I believe good code is like a joke—if you have to explain it, it’s bad.
 
 ---
 
