@@ -43,24 +43,24 @@ A Final Year B.Tech IT Student | Python & Flask Developer | Automation Enthusias
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: none;">
+  <table>
     <tr>
-      <td style="border: none;">
-        <!-- Updated URL to my-github-stats-taupe.vercel.app -->
-        <img align="center" src="https://my-github-stats-taupe.vercel.app/api?username=Vaibhavsingh167&show_icons=true&locale=en&theme=tokyonight" alt="Vaibhavsingh167" />
+      <td>
+        <img src="https://github-readme-stats-henna-delta-10.vercel.app/api?username=Vaibhavsingh167&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
       </td>
-      <td style="border: none;">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsingh167&theme=tokyonight" alt="Vaibhavsingh167" />
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsingh167&theme=tokyonight" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
-  <br>
-  
-  <!-- Updated URL to my-github-stats-taupe.vercel.app -->
-  <img src="https://my-github-stats-taupe.vercel.app/api/top-langs?username=Vaibhavsingh167&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Vaibhavsingh167" />
+
+  <br/>
+
+  <img src="https://github-readme-stats-henna-delta-10.vercel.app/api/top-langs?username=Vaibhavsingh167&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
