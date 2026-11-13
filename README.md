@@ -62,17 +62,6 @@ A Final Year B.Tech IT Student | Python & Flask Developer | Automation Enthusias
 
   <img src="https://github-readme-stats-henna-delta-10.vercel.app/api/top-langs?username=Vaibhavsingh167&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavsingh167&theme=algolia&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ## 🐍 Contribution Graph
